@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Making High-Protein Pizza
+description: hijacking a favorite food to simultaneously get *gains*
 img: assets/img/12.jpg
 importance: 1
 category: work
